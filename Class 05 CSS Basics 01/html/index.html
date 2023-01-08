@@ -32,8 +32,13 @@
             background-color: chocolate;
         }
 
-        table,tr,td{
+        .table1,tr,td{
             border: 10px solid black;
+            text-align: center;
+        }
+
+        #table2,tr,td{
+            border: 10px solid red;
         }
     </style>
 </head>
@@ -49,8 +54,24 @@
     <span id="span2">this is span 2</span>
     <br>
     <hr>
-    <table>
-        <caption>this is table</caption>
+    <table class="table1">
+        <caption>this is table 1</caption>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>6</td>
+        </tr>
+    </table>
+
+    <table id="table2">
+        <caption>this is table 2</caption>
         <tr>
             <td>1</td>
             <td>2</td>
