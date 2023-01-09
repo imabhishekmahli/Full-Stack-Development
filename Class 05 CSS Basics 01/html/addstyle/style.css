@@ -9,3 +9,17 @@ h1{
 #blue{
     color: blue;
 }
+
+#divi{
+    background-color: yellow;
+}
+
+div{
+    background-color: red;
+    color: blue;
+}
+
+.divi{
+    background-color: orange;
+    font-size: large;
+}
