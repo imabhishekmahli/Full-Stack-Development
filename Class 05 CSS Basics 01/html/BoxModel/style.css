@@ -4,6 +4,7 @@
     border: 2px solid black;
     margin: 10px; /*outer part of border is call margin*/
     padding: 25px; /* space between border and content is called padding */
+    box-sizing: border-box;
 }
 
 #orange{
