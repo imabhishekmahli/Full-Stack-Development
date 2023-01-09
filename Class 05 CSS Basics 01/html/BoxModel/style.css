@@ -1,0 +1,19 @@
+.box{
+    height: 100px;
+    width: 200px;
+    border: 1px solid black;
+    margin: 10px; /*outer part of border is call margin*/
+    padding: 25px; /* space between border and content is called padding */
+}
+
+#orange{
+    background-color: orange;
+}
+
+#white{
+    background-color: white;
+}
+
+#green{
+    background-color: green;
+}
