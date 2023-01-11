@@ -26,6 +26,7 @@
     height: 200px;
     width: 200px;
     background-image: linear-gradient(to bottom right, red,blue);
+    background-image: linear-gradient(to bottom right, rgba(255,0,0,0),rgba(0,0,255,1));
 
 }
 
