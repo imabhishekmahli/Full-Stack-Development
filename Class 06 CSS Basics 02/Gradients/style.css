@@ -34,3 +34,9 @@ table,tr,td{
     border: 1px solid blue;
     border-collapse: collapse;
 }
+
+.div1{
+    height: 200px;
+    width: 200px;
+    background-image: radial-gradient(rgba(141, 189, 143, 0),rgb(217, 216, 239));
+}
