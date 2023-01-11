@@ -8,3 +8,7 @@ div{
 .translated{
     transform: perspective(10px) translateZ(-10px);
 }
+
+.scaled{
+    transform: perspective(10px) scaleZ(2) rotateY(-3deg);
+}
