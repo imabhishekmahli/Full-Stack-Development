@@ -3,6 +3,8 @@
     /* transform: translate(450px, 30px); */
     width: 50px;
     text-align: center;
-    margin: 20px;
-    transform: rotate(30deg);
+    margin: 50px;
+    padding: 50px;
+    /* transform: rotate(30deg); */
+    transform: scale(1,);
 }
