@@ -1,0 +1,23 @@
+.box{
+    border: 1px solid black;
+    height: 200px;
+    width: 150px;
+    background-image: linear-gradient(red,blue);
+
+}
+
+.box1{
+    border: 1px solid black;
+    height: 200px;
+    width: 150px;
+    background-image: linear-gradient(to left, red,blue);
+
+}
+
+.box2{
+    border: 1px solid black;
+    height: 200px;
+    width: 150px;
+    background-image: linear-gradient(to right, red,blue);
+
+}
