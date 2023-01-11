@@ -7,6 +7,6 @@ h1{
     background-color: blue;
     height: 200px;
     width: 200px;
-    box-shadow: 10px 10px 10px green, 15px 15px 15px red ;
+    box-shadow: -10px -10px 10px green, -15px -15px 15px red ;
     color: orange;
 }
