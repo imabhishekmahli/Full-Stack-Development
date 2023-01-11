@@ -1,23 +1,35 @@
-.box{
-    border: 1px solid black;
-    height: 200px;
-    width: 150px;
-    background-image: linear-gradient(red,blue);
-
-}
-
 .box1{
     border: 1px solid black;
     height: 200px;
-    width: 150px;
-    background-image: linear-gradient(to left, red,blue);
+    width: 200px;
+    background-image: linear-gradient(to top left,red,blue);
 
 }
 
 .box2{
     border: 1px solid black;
     height: 200px;
-    width: 150px;
-    background-image: linear-gradient(to right, red,blue);
+    width: 200px;
+    background-image: linear-gradient(to top right, red,blue);
 
+}
+
+.box3{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    background-image: linear-gradient(to bottom left, red,blue);
+
+}
+.box4{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    background-image: linear-gradient(to bottom right, red,blue);
+
+}
+
+table,tr,td{
+    border: 1px solid blue;
+    border-collapse: collapse;
 }
