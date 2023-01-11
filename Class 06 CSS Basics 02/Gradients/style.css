@@ -45,5 +45,5 @@ table,tr,td{
     border: 1px solid black;
     height: 200px;
     width: 200px;
-    background-image: radial-gradient(yellow 5%,orange 10%, red 50%);
+    background-image: radial-gradient(rgb(233, 62, 62) 20%,rgb(227, 172, 70) 30%, rgb(151, 151, 236,1) 70% ,rgb(203, 209, 232,1) 40%);
 }
