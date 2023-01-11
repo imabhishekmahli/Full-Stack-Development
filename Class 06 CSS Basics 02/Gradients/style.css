@@ -38,5 +38,5 @@ table,tr,td{
 .div1{
     height: 200px;
     width: 200px;
-    background-image: radial-gradient(rgba(141, 189, 143, 0),rgb(217, 216, 239));
+    background-image: radial-gradient(violet,indigo,blue,green,yellow,orange,red);
 }
