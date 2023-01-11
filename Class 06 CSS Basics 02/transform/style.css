@@ -1,6 +1,8 @@
 .box{
     background-color: aqua;
-    transform: translate(450px, 10px);
+    /* transform: translate(450px, 30px); */
     width: 50px;
     text-align: center;
+    margin: 20px;
+    transform: rotate(30deg);
 }
