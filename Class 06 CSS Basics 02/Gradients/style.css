@@ -40,3 +40,10 @@ table,tr,td{
     width: 200px;
     background-image: radial-gradient(circle,violet,indigo,blue,green,yellow,orange,red);
 }
+
+.div2{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    background-image: radial-gradient(yellow 5%,orange 10%, red 50%);
+}
