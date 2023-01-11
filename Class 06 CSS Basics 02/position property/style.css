@@ -15,3 +15,7 @@ div{
     top: 100px;
     left: 50px;
 }
+
+#box4{
+    position: fixed;
+}
