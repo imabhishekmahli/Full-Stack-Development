@@ -6,6 +6,7 @@
     flex-wrap: wrap-reverse; /*default -> no wrap , wrap reverse*/
     flex-flow: row; /*short hand notation -> flex-direction and flex-wrap can write in same line*/
     justify-content: center;
+    justify-content:space-around;
 }
 
 .box{
