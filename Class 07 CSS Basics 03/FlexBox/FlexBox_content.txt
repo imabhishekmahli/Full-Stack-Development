@@ -1,0 +1,15 @@
+Flex-Container Properties
+1. Flex-direction
+2. Flex-wrap
+3. Flex-flow
+4. Justify-content
+5. align-items
+7. Align-content
+
+Flex-items Properties
+1. Order
+2. Flex-grow
+3. Flex-shrink
+4. Flex-basis
+5. Flex
+6. Align-self
