@@ -5,8 +5,13 @@
     /* flex-direction: column-reverse;*/
     flex-wrap: wrap; /*width entacted*/
     flex-wrap: wrap-reverse; /*flex items will go upward on squeezing*/
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+    /*align-items: stretch; /*default value*/
+    gap: 10px;
+    align-content:flex-end;
+    align-content: space-between;
+    align-content: stretch;
 } 
 
 .box{
