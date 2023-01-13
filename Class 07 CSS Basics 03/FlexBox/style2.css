@@ -5,7 +5,8 @@
     /* flex-direction: column-reverse;*/
     flex-wrap: wrap; /*width entacted*/
     flex-wrap: wrap-reverse; /*flex items will go upward on squeezing*/
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
 } 
 
 .box{
