@@ -2,7 +2,7 @@
     height: 400px;
     border: 2px solid black;
     display: flex;  /*stact on main axis*/
-    flex-direction: row-reverse;
+    flex-direction: column-reverse;
 }
 
 .box{
