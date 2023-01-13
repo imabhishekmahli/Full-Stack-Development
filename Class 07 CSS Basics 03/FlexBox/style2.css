@@ -3,7 +3,8 @@
     border: 2px solid black;
     display: flex;  /*stact on main axis*/
     /* flex-direction: column-reverse;*/
-    flex-wrap: wrap;
+    flex-wrap: wrap; /*width entacted*/
+    flex-wrap: wrap-reverse;
 } 
 
 .box{
