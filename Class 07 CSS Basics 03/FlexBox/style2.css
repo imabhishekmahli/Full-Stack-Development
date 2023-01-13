@@ -4,7 +4,8 @@
     display: flex;  /*stact on main axis*/
     /* flex-direction: column-reverse;*/
     flex-wrap: wrap; /*width entacted*/
-    flex-wrap: wrap-reverse;
+    flex-wrap: wrap-reverse; /*flex items will go upward on squeezing*/
+    justify-content: center;
 } 
 
 .box{
