@@ -17,6 +17,7 @@
 .box{
     border: 1px solid green;
     background-color: rgb(156, 156, 223);
+    flex-grow: 1;
 
 }
 
@@ -25,5 +26,9 @@
 }
 
 #box2{
-    order: 2;
+    order: 4;
+}
+
+#box3{
+    order:3
 }
