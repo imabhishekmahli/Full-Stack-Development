@@ -4,7 +4,7 @@
     display: flex;  /*stact on main axis*/
     /* flex-direction: column-reverse;*/
     flex-wrap: wrap; /*width entacted*/
-    flex-wrap: wrap-reverse; /*flex items will go upward on squeezing*/
+    /*flex-wrap: wrap-reverse; /*flex items will go upward on squeezing*/
     justify-content: center;
     align-items: center;
     /*align-items: stretch; /*default value*/
@@ -19,10 +19,12 @@
     background-color: rgb(156, 156, 223);
     flex-grow: 1;
 
+
 }
 
 #box1{
     order: 1;
+    flex-shrink: 40;
 }
 
 #box2{
