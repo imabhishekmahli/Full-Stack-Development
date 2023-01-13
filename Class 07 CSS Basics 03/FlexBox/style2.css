@@ -17,4 +17,13 @@
 .box{
     border: 1px solid green;
     background-color: rgb(156, 156, 223);
+
+}
+
+#box1{
+    order: 1;
+}
+
+#box2{
+    order: 2;
 }
