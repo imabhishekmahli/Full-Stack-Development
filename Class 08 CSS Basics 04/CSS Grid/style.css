@@ -1,0 +1,30 @@
+.container{
+    background-color: brown;
+    height: 500px;
+    border: 3px solid black;
+    display: grid;
+
+    grid-template-columns: 200px 200px 210px;  /*1fr 1fr 1fr  --> repeat(3, 1fr*/
+    grid-template-rows: 90px 90px 90px 90px;
+
+    gap: 15px; /* gap between the grid --> gutter*/
+
+
+}
+
+.box{
+    background-color: aqua;
+    border: 3px solid black;
+
+    height: 80px;
+}
+
+#box1{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+#box3{
+    grid-column-start: 2;
+    grid-column-end: 4;
+}
