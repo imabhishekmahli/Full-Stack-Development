@@ -9,6 +9,7 @@
     overflow-x: hidden;
     overflow-y: auto;
     perspective: 10px; /*value doesnt matter*/
+    color: white;
 }
 
 .container{
